@@ -1,4 +1,4 @@
 # demorepository
 this is my first repository
 <br>
-Author - Aatqa
+Author - Aatqa (noor)
